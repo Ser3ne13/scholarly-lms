@@ -1,0 +1,26 @@
+# Configuration files (DO NOT UPLOAD)
+config/database.php
+includes/config.php
+
+# Uploaded files
+assets/uploads/*
+!assets/uploads/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Database dumps
+*.sql
+*.sql.gz
